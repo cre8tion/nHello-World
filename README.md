@@ -19,3 +19,6 @@ To run deployment:
 ```bash
 near deploy --wasmFile target/wasm32-unknown-unknown/release/near_hello_world.wasm --accountId YOUR_ACCOUNT_HERE
 ```
+
+## Contract Address
+Contract is available at `helloworld.crypto_overflow.testnet`
